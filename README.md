@@ -1,2 +1,3 @@
-This is a simple repo which contains python problems and their solution, the goal is to solve at least one python problem in a day.
-Will later focus on optimizing the codes and finding more efficient ways to solve the problems.
+- This is a simple repo which contains python problems and their solution.
+- The goal is to solve at least one python problem/challenge/question in a day (At least I hope to).
+- Will later focus on optimizing the codes and finding more efficient ways to solve the problems.
