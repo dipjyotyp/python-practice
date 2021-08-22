@@ -1,6 +1,8 @@
-Complete the solution so that the function will break up camel casing, using a space between words.
+Write a programme to break the camel casing using space.
 
-Example
-"camelCasing"  =>  "camel Casing"
-"identifier"   =>  "identifier"
-""             =>  ""'''
+Example:
+
+"camelCasing"	--> "camel Casing"
+"aSampleString"	--> "a Sample String"
+""				-->  ""
+"text"			--> "text"
