@@ -1,0 +1,5 @@
+- You are in a city where it takes exactly 1 minute to traverse a block.
+- You always walk only a single block for each direction --> ['n', 's', 'w', 'e'].
+- It takes you one minute to traverse one city block
+- Create a function that will return True if the directions provided will take you exactly ten minutes and will return you to your starting point. 
+- Return False otherwise.
